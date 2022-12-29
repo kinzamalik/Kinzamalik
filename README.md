@@ -65,17 +65,26 @@
     🔥 A passionate Data Engineer grinding hard to play with your Data to bring best outcome  <br>
     :sparkles: Favorite Tech: JavaScript, Python,SQL, AWS, Microsoft Azure ... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
-<!--     :email:	kiinza.malik@gmail.com <br>
-    :art: Portfolio: https://saadpasta.github.io <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/saadpasta <br>
-                Twitter: https://twitter.com/saadpastadev?lang=en -->
+    :email:	kiinza.malik@gmail.com <br>
+<!--     :art: Portfolio: https://saadpasta.github.io <br> -->
+     ## Connect with me:
+    :briefcase: 
+ 
+       <p align="left">
+
+       <a href = "https://www.linkedin.com/in/kinza-malik-a966281b4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+       <a href = "https://twitter.com/KinzaySays"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+       <a href = "https://www.instagram.com/kiinza.malikk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+       <a href = "https://www.facebook.com/kiinzyyy/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+
+       </p>
   </samp>
 </p>
 
 
 
 
- ## 📊 My Github Stats
+<!--  ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/Kinzamalik/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kinzamalik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -90,20 +99,12 @@
 <a href="https://github.com/Kinzamalik/github-readme-activity-graph"><img alt="Kinza Malik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kinzamalik&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
 
-## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/kinza-malik-a966281b4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/KinzaySays"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/kiinza.malikk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/kiinzyyy/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
-</p>
-
-## ❤ Views and Followers
+<!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Kinzamalik">
 </a>
-<a href="https://github.com/Kinzamalik?tab=followers"><img src="https://img.shields.io/github/followers/Kinzamalik?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Kinzamalik?tab=followers"><img src="https://img.shields.io/github/followers/Kinzamalik?label=Followers&style=social" alt="GitHub Badge"></a> -->
