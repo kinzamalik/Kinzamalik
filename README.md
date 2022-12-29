@@ -61,14 +61,20 @@
 <hr></hr>
 <p align="center">
   <samp>
-    Hi, I'm Kinza Malik! 👋 <br>
-    🔥 A passionate Data Engineer grinding hard to play with your Data to bring best outcome  <br>
-    :sparkles: Favorite Tech: JavaScript, Python,SQL, AWS, Microsoft Azure ... <br>
+    ### Hi there, I'm [Kinza Malik](https://www.linkedin.com/in/kinza-malik-a966281b4/) 👋. ![](https://pronoun.cyou/x/y?subject=she&object=Her&height=20)
+   
+    🔥 A passionate Data Engineer striving hard to play with your Data!   <br>
+    :sparkles: Favorite Tech: JavaScript|Python|SQL|AWS|Microsoft Azure ... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :email:	kiinza.malik@gmail.com <br>
 <!--     :art: Portfolio: https://saadpasta.github.io <br> -->
-     ## Connect with me:
-    :briefcase: 
+<!--      ## Connect with me: -->
+    :briefcase: <a href = "https://www.linkedin.com/in/kinza-malik-a966281b4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+       <a href = "https://twitter.com/KinzaySays"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+       <a href = "https://www.instagram.com/kiinza.malikk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+       <a href = "https://www.facebook.com/kiinzyyy/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+   
+<!--                 
  
        <p align="left">
 
@@ -77,7 +83,7 @@
        <a href = "https://www.instagram.com/kiinza.malikk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
        <a href = "https://www.facebook.com/kiinzyyy/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
-       </p>
+       </p> -->
   </samp>
 </p>
 
